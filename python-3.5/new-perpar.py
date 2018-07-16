@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 # Author: Mrtao
 
+"""
+新浪新闻爬取
+"""
+
 import urllib.request
 import re
 import urllib.error
